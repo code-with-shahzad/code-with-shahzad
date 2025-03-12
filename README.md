@@ -57,9 +57,7 @@
 
 ## 📊 GitHub Streak:
 
-<div align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=code-with-shahzad&theme=highcontrast&mode=weekly)
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=code-with-shahzad&theme=highcontrast&mode=weekly)
 
 ---
 
