@@ -55,12 +55,6 @@
 
 ---
 
-## 📊 GitHub Streak:
-
-![GitHub Streak](https://streak-stats.demolab.com?user=code-with-shahzad&theme=highcontrast&mode=weekly)
-
----
-
 ## ⚡ Fun Fact:
 💻 I love coding at night with a cup of coffee ☕!
 
