@@ -55,10 +55,10 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Streak:
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=code-with-shahzad&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=code-with-shahzad&theme=highcontrast&mode=weekly" alt="GitHub Streak" />
 </div>
 
 ---
