@@ -57,7 +57,7 @@
 
 ## 🔥 GitHub Streak Stats:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=code-with-shahzad&theme=highcontrast&mode=weekly" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=code-with-shahzad&theme=swift&mode=weekly" alt="GitHub Streak" />
 </div>
 
 ---
