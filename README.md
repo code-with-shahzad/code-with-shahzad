@@ -10,7 +10,7 @@
 ## 🚀 About Me:
 - 💡 Open for bright ideas  
 - 🤝 Looking to collaborate on **Full-Stack Web & Mobile Development**  
-- 🔥 Specializing in **React, Next.js, and TypeScript**  
+- 🔥 Specializing in **React, React Native, Expo, Next.js, and TypeScript**  
 - ⚡ Passionate about **API integrations and scalable web applications**  
 - 🛠 Ask me about **Supabase, Firebase, Stripe, and 3rd-party APIs**  
 
