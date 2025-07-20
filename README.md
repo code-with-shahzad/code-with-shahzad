@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Developer-%2300C853?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reaact Native-Specialist-%2300C853?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reaact Native-Developer-%2300C853?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
 ---
