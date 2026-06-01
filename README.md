@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm Shahzad </h1>
+<h1 align="center">👋 Hey there! I'm Umar </h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Developer-%2300C853?style=for-the-badge&logo=react&logoColor=white" />
@@ -23,8 +23,8 @@
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzadsiddique1)  
-📩 Email: [mshahzadsiddique5@gmail.com](mailto:mshahzadsiddique5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-rehmani)  
+📩 Email: [umarrehmani26@outlook.com](mailto:umarrehmani26@outlook.com)
 
 
 ---
@@ -68,4 +68,4 @@
 ---
 
 ### 🎯 **Want to Collaborate?**
-📩 Reach out via **[Email](mailto:mshahzadsiddique5@gmail.com)** or **[LinkedIn](https://linkedin.com/in/shahzadsiddique1)**!
+📩 Reach out via **[Email](mailto:umarrehmani26@outlook.com)** or **[LinkedIn](https://www.linkedin.com/in/umar-rehmani)**!
