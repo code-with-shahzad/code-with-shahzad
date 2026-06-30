@@ -18,7 +18,7 @@
 
 ## 📄 My Resume / CV:
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1YCj30FlsyLf_pG5Y5Pkbcr-SMiUHY-8t/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1K7w6-WhWHXIhpexrT8b54tN4WjXGpgzw/view?usp=sharing)
 
 ---
 
