@@ -23,7 +23,7 @@
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-rehmani)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzadsiddique1)  
 📩 Email: [mshahzadsiddique5@gmail.com](mailto:mshahzadsiddique5@gmail.com)
 
 
